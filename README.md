@@ -44,7 +44,7 @@ where I can combine **finance + data skills** and keep growing.
 ---
 
 ## 📫 Let's connect!
-I'm open to opportunities and collaborations 🙂
+If you're looking for someone who is **motivated, detail-oriented, and continuously learning**, feel free to reach out :cherry_blossom:
 <!--
 **zudmonaite/zudmonaite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
