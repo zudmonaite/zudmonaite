@@ -1,45 +1,37 @@
-## Hey! 👋
+## Hey! 
 
-I'm **Viktorija** — a Finance Analyst transitioning into a **Decision Scientist / Data Analyst** role.
+I'm **Viktorija**. 
 
-💼 **5+ years of experience** in financial reporting, analysis, and data controls  
-📊 Strong focus on data accuracy, problem-solving, and process improvement  
-🚀 Recently completed **Data Analytics studies at Turing College**
+💼 I have 5+ years of experience working with financial and operational data, focusing on data validation, analysis, and process improvement.
 
----
+📊 In my work, I:
+- analyzed large datasets using SQL and BI tools  
+- investigated data issues and identified root causes  
+- worked closely with data engineers to improve data quality  
+- built automated reporting solutions  
 
-## 🔍 Why Data?
-
-While working in finance, I discovered that I enjoy **working with data itself** — not just reporting:
-- uncovering insights 📊  
-- solving problems 🧩  
-- automating processes ⚙️  
-
-I continue learning independently *almost every day*.
+🚀 Recently completed **Data Analytics studies at Turing College** and continue strengthening my skills in Python, statistics, and experimentation through independent learning and additional courses.
 
 ---
 
 ## 🛠️ Skills
-- SQL  
+- SQL (Advanced)  
 - Python (Pandas, Data Visualization) 🐍  
-- Tableau 📊  
-- Looker  
+- Tableau / Looker  📊  
 - Excel / Google Sheets 📈  
 
 ---
 
 ## 📊 Analytics
-- Retention, Cohort & Churn  
-- Funnel Analysis  
-- CLV & RFM  
-- A/B Testing & Statistical Inference  
-- Experimentation 🧪  
-
+- A/B Testing & Experimentation
+- Funnel Analysis & Conversion Optimization
+- Customer Segmentation (RFM, Cohort Analysis)
+- Retention & Churn Analysis
+- Customer Lifetime Value (CLV)
 ---
 
 ## 🚀 Looking for
-Opportunities as a **Decision Scientist / Data Analyst**  
-where I can combine **finance + data skills** and keep growing.
+Open to a **Decision Scientist / Data Analyst** role.
 
 ---
 
