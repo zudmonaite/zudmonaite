@@ -1,6 +1,4 @@
-## Hey! 
-
-I'm **Viktorija**. 
+## Hi, I'm Viktorija 👋
 
 💼 I have 5+ years of experience working with financial and operational data, focusing on data analysis, validation, and solving problems.
 
@@ -36,7 +34,7 @@ Open to **Data Analyst** and **Decision Scientist** roles.
 ---
 
 ## 📫 Let's connect!
-If you're looking for someone who is **motivated, detail-oriented, and continuously learning**, feel free to reach out :cherry_blossom:
+Feel free to reach out if you'd like to connect or discuss data and analytics. :cherry_blossom:
 <!--
 **zudmonaite/zudmonaite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
