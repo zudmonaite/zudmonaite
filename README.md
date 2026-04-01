@@ -2,7 +2,7 @@
 
 I'm **Viktorija**. 
 
-💼 I have 5+ years of experience working with financial and operational data, focusing on data validation, analysis, and process improvement.
+💼 I have 5+ years of experience working with financial and operational data, focusing on data analysis, validation, and solving problems.
 
 📊 In my work, I:
 - analyzed large datasets using SQL and BI tools  
@@ -16,7 +16,7 @@ I'm **Viktorija**.
 
 ## 🛠️ Skills
 - SQL (Advanced)  
-- Python (Pandas, Data Visualization) 🐍  
+- Python (Pandas, Data Analysis, Visualization) 🐍  
 - Tableau / Looker  📊  
 - Excel / Google Sheets 📈  
 
@@ -31,7 +31,7 @@ I'm **Viktorija**.
 ---
 
 ## 🚀 Looking for
-Open to a **Decision Scientist / Data Analyst** role.
+Open to **Data Analyst** and **Decision Scientist** roles.
 
 ---
 
