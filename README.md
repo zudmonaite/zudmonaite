@@ -28,6 +28,16 @@
 - Customer Lifetime Value (CLV)
 ---
 
+## 💼 Projects
+
+🔹 [SQL Data Analysis](sql-analysis-project)
+🔹 Tableau Dashboards
+🔹 Segmentation & Customer Analysis 
+🔹 Conversion Funnel Analysis
+🔹 Machine Learning Projects
+🔹 A/B Testing
+🔹 Data Exploration / EDA
+
 ## 🚀 Looking for
 Open to **Data Analyst** and **Decision Scientist** roles.
 
