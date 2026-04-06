@@ -30,7 +30,7 @@
 
 ## 💼 Projects
 
-🔹 [SQL Data Analysis]([https://github.com/tavovardas/sql-analysis-project](https://github.com/zudmonaite/sql-analysis-project/tree/main))
+🔹 🔹 [SQL Data Analysis](https://github.com/zudmonaite/sql-analysis-project/tree/main)
 
 🔹 Tableau Dashboards  
 
