@@ -32,17 +32,17 @@
 
 🔹 [SQL Data Analysis](https://github.com/zudmonaite/sql-analysis-project/tree/main)
 
-🔹 Tableau Dashboards  
+🔹 [Tableau Dashboards](https://github.com/tableau-dashboards/tree/main)
 
-🔹 Segmentation & Customer Analysis  
+🔹 [Segmentation & Customer Analysis]  
 
-🔹 Conversion Funnel Analysis  
+🔹 [Conversion Funnel Analysis]  
 
-🔹 Machine Learning Projects  
+🔹 [Machine Learning Projects]  
 
-🔹 A/B Testing  
+🔹 [A/B Testing]  
 
-🔹 Data Exploration / EDA  
+🔹 [Data Exploration / EDA]  
 
 ## 🚀 Looking for
 Open to **Data Analyst** and **Decision Scientist** roles.
