@@ -32,7 +32,7 @@
 
 🔹 [SQL Data Analysis](https://github.com/zudmonaite/sql-analysis-project/tree/main)
 
-🔹 [Tableau Dashboards](https://github.com/tableau-dashboards/tree/main)
+🔹 [Tableau Dashboards](https://github.com/zudmonaite/tableau-dashboards)
 
 🔹 [Segmentation & Customer Analysis]  
 
