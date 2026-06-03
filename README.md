@@ -34,16 +34,6 @@
 
 🔹 [Tableau Dashboards](https://github.com/zudmonaite/tableau-dashboards)
 
-🔹 [Segmentation & Customer Analysis](https://github.com/zudmonaite/segmentation-customer-analysis)
-
-🔹 [Conversion Funnel Analysis](https://github.com/zudmonaite/conversion-funnel-analysis)
-
-🔹 [Machine Learning Projects](https://github.com/zudmonaite/machine-learning-projects)
-
-🔹 [A/B Testing](https://github.com/zudmonaite/A-B-testing)
-
-🔹 [Data Exploration / EDA](https://github.com/zudmonaite/Data-Exploration-EDA)
-
 ## 🚀 Looking for
 Open to **Data Analyst** and **Decision Scientist** roles.
 
