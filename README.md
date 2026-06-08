@@ -22,6 +22,8 @@
 
 ## 💼 Projects
 
+🔹 [Google Sheets](https://github.com/zudmonaite/google-sheets)
+
 🔹 [SQL Data Analysis](https://github.com/zudmonaite/sql-analysis-project/tree/main)
 
 🔹 [Tableau Dashboards](https://github.com/zudmonaite/tableau-dashboards)
