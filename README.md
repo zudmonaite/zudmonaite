@@ -13,19 +13,11 @@
 ---
 
 ## 🛠️ Skills
+- Excel / Google Sheets 📈 
 - SQL (Advanced)  
 - Python (Pandas, Data Analysis, Visualization) 🐍  
 - Tableau / Looker  📊  
-- Excel / Google Sheets 📈  
 
----
-
-## 📊 Analytics
-- A/B Testing & Experimentation
-- Funnel Analysis & Conversion Optimization
-- Customer Segmentation (RFM, Cohort Analysis)
-- Retention & Churn Analysis
-- Customer Lifetime Value (CLV)
 ---
 
 ## 💼 Projects
