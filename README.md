@@ -10,7 +10,8 @@
 
 🚀 Recently completed **Data Analytics studies at Turing College** and continue strengthening my skills in Python, statistics, and experimentation through independent learning and additional courses.
 
-🚀 I am also developing freelance projects focused on Google Sheets, dashboards, and data-driven business solutions.
+🧩 I am also developing freelance projects focused on Google Sheets, dashboards, and data-driven business solutions.
+
 ---
 
 ## 🛠️ Skills
