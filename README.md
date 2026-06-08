@@ -1,6 +1,6 @@
 ## Hi, I'm Viktorija 👋
 
-💼 I have 5+ years of experience working with financial and operational data, focusing on data analysis, validation, and solving problems.
+💼 Data Analyst with 5+ years of experience working with financial and operational data, focusing on data analysis, reporting, and data quality improvement.
 
 📊 In my work, I:
 - analyzed large datasets using SQL and BI tools  
@@ -10,6 +10,7 @@
 
 🚀 Recently completed **Data Analytics studies at Turing College** and continue strengthening my skills in Python, statistics, and experimentation through independent learning and additional courses.
 
+🚀 I am also developing freelance projects focused on Google Sheets, dashboards, and data-driven business solutions.
 ---
 
 ## 🛠️ Skills
@@ -28,8 +29,11 @@
 
 🔹 [Tableau Dashboards](https://github.com/zudmonaite/tableau-dashboards)
 
-## 🚀 Looking for
-Open to **Data Analyst** and **Decision Scientist** roles.
+## 🚀 Open to Work
+
+Open to Data Analyst and Decision Scientist roles, as well as freelance opportunities in data analysis, Google Sheets solutions, dashboard development, and business reporting.
+
+Currently focused on building a portfolio of real-world analytics projects that transform raw data into actionable business insights.
 
 ---
 
