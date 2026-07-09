@@ -32,6 +32,8 @@
 
 🔹[Customer Lifecycle Analytics](https://github.com/zudmonaite/customer-analytics)
 
+🔹 [Machine Learning Project](https://github.com/zudmonaite/machine-learning-project)
+
 ## 🚀 Open to Work
 
 Open to Data Analyst and Decision Scientist roles, as well as freelance opportunities in data analysis, Google Sheets solutions, dashboard development, and business reporting.
