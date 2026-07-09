@@ -30,7 +30,7 @@
 
 🔹 [Tableau Dashboards](https://github.com/zudmonaite/tableau-dashboards)
 
-🔹[Customer Lifecycle Analytics](https://github.com/zudmonaite/customer-analytics)
+🔹 [Customer Lifecycle Analytics](https://github.com/zudmonaite/customer-analytics)
 
 🔹 [Machine Learning Project](https://github.com/zudmonaite/machine-learning-project)
 
