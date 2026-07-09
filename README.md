@@ -25,7 +25,8 @@
 ## 💼 Projects
 
 🔹 **Google Sheets**
-  - [Google Sheets](https://github.com/zudmonaite/google-sheets)
+  - [Google Sheets Sales Analytics Dashboard](https://github.com/zudmonaite/google-sheets)
+  - [Cafe Sales Dashboard & Data Cleaning](https://github.com/zudmonaite/cafe-sales-)
 
 🔹 [SQL Data Analysis](https://github.com/zudmonaite/sql-analysis-project/tree/main)
 
