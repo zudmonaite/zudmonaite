@@ -17,14 +17,15 @@
 ## 🛠️ Skills
 - Excel / Google Sheets 📈 
 - SQL (Advanced)  
-- Python (Pandas, Data Analysis, Visualization) 🐍  
+- Python (Pandas, Data Analysis, Visualisation) 🐍  
 - Tableau / Looker  📊  
 
 ---
 
 ## 💼 Projects
 
-🔹 [Google Sheets](https://github.com/zudmonaite/google-sheets)
+🔹 **Google Sheets**
+  - [Google Sheets](https://github.com/zudmonaite/google-sheets)
 
 🔹 [SQL Data Analysis](https://github.com/zudmonaite/sql-analysis-project/tree/main)
 
