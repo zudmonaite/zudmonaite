@@ -45,7 +45,7 @@ Currently focused on building a portfolio of real-world analytics projects that 
 ---
 
 ## 📫 Let's connect!
-Feel free to reach out if you'd like to connect or discuss data and analytics. :cherry_blossom:
+Feel free to reach out if you'd like to connect or discuss data and analytics. 
 <!--
 **zudmonaite/zudmonaite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
